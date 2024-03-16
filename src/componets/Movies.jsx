@@ -14,7 +14,7 @@
      );
 }
 
-//export{ Movies };
+export{ Movies };
 
 //import { Movie } from './Movie'
 
